@@ -83,7 +83,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <mainClass>academy.devonline.guessnumber.Launcher</mainClass>
+                                <mainClass>Launcher</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
